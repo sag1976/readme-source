@@ -39,7 +39,8 @@
 ![nodejs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
 
-------------------------------------
+-----------------
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Você pode me encontgrar aqui em minhas Redes Sociais :newspaper:
 
